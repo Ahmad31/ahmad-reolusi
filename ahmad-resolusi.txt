@@ -5,4 +5,4 @@ AHMAD RESOLUSI 3 bulan
 - Menguasai Node js untuk back-end
 - Menguasai NoSQL MongoDB untuk database
 - Menguasai setting server nginx untuk production nodejs, mongoDB, reacjs,
-- Membuat App toko online dengan reactjs dan nodejs
+- Membuat Content youtube tentang pemrograman
