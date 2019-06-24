@@ -1,2 +1,4 @@
 - Bisnis mainan
+  * Diecast
+  * Mainan anak2
 - Bisnis makanan
