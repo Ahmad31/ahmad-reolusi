@@ -1,6 +1,10 @@
 - Bisnis mainan
   * Diecast
+    ^ Apolo MSZ
+    ^ konstruktor
   * Mainan anak2
 - Bisnis makanan
   * Jualan es
+    ^ es teh
   * jualan angkringan
+    ^ Jaesu
