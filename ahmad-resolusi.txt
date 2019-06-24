@@ -1,0 +1,7 @@
+AHMAD RESOLUSI 3 bulan
+- Menguasai git
+- Menguasai setting Wabpek untuk reacjs
+- Menguasai Redux pada react js, react native
+- Menguasai Node js untuk back-end
+- Menguasai NoSQL MongoDB untuk database
+- Menguasai setting server nginx untuk production nodejs, mongoDB, reacjs
