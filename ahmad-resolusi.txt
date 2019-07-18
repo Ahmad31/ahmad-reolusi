@@ -1,5 +1,5 @@
 AHMAD RESOLUSI 3 bulan
-- Menguasai git
+- Menguasai git == cukup ok
 - Menguasai setting Wabpek untuk reacjs
 - Menguasai Redux pada react js, react native
 - Menguasai Node js untuk back-end
